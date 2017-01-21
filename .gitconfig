@@ -1,0 +1,7 @@
+[user]
+	name = suphanan
+	email = suphanan_mujarin@cmu.ac.th
+[http]
+	sslverify = false
+[push]
+	default = simple
